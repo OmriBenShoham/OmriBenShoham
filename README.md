@@ -8,7 +8,7 @@
 * 🏋️‍♂️ Fun Fact: When I'm not coding or scaling startups, you might find me lifting weights at the gym – I find it a great way to stay focused and energized.
 * 🌟 Personal Mission: My goal is to blend technology and creativity to create solutions that make a real-world impact.
 
-
+<br/>
 
 ### Contact Me
 
@@ -107,6 +107,7 @@
 </table>
 
 <br/>
+
 ### My Github Stats
 <table>
     <tr>
