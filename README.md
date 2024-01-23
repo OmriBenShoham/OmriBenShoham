@@ -1,6 +1,6 @@
 ### Welcome to My World of Code! 🌍👨‍💻
 
-## About Me
+### About Me
 
 * 👨‍💼 Working On: As the Co-Founder & VP R&D of an innovative Startup, I'm deeply involved in innovating Rapid Interviews using AI technology.
 * 🌱 Currently Learning: Embarking on the thrilling path of scaling my own startup – a journey of continuous learning and growth.
@@ -9,11 +9,14 @@
 * 🌟 Personal Mission: My goal is to blend technology and creativity to create solutions that make a real-world impact.
 
 
-## Contact Me
+
+### Contact Me
 
 [<img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="LinkedIn" width="50"/>](https://www.linkedin.com/in/omri-ben-shoham-689138125/)
 
-## Toolset
+
+
+### Toolset
 
 <table>
     <tr>
@@ -99,6 +102,24 @@
         <td>Others/Misc</td>
         <td>
             <a href=""><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>            
+        </td>
+    </tr>
+</table>
+
+
+### My Github Stats
+<table>
+    <tr>
+        <td>
+            <img src="https://github-profile-trophy.vercel.app/?username=galdayan&row=3&column=4&no-bg=true"/>
+        </td>
+        <td>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=galdayan"/>
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omribenshoham&langs_count=8&layout=compact&count_private=true&hide=php,scss,batchfile,gherkin,freemarker,xslt,tsql,ruby,java,jupyter%20notebook"/>
         </td>
     </tr>
 </table>
