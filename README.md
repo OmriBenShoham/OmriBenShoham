@@ -1,5 +1,13 @@
 ### Welcome to My World of Code! 🌍👨‍💻
 
+## About Me
+
+* 👨‍💼 Working On: As the VP of R&D at Genway, I'm deeply involved in innovating Rapid Interviews using AI technology.
+* 🌱 Currently Learning: Embarking on the thrilling path of scaling my own startup – a journey of continuous learning and growth.
+* 💬 Ask Me About: Feel free to chat with me about Python 🐍, React ⚛️, SQL 🗄️, Cloud Engineering ☁️, Docker 🐳, and the exciting realm of Large Language Models (LLMs).
+* 🏋️‍♂️ Fun Fact: When I'm not coding or scaling startups, you might find me lifting weights at the gym – I find it a great way to stay focused and energized.
+* 🌟 Personal Mission: My goal is to blend technology and creativity to create solutions that make a real-world impact.
+
 <!--
 **OmriBenShoham/OmriBenShoham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
