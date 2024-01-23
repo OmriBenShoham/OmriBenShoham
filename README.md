@@ -14,7 +14,7 @@
 
 [<img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="LinkedIn" width="50"/>](https://www.linkedin.com/in/omri-ben-shoham-689138125/)
 
-
+<br/>
 
 ### Toolset
 
@@ -106,7 +106,7 @@
     </tr>
 </table>
 
-
+<br/>
 ### My Github Stats
 <table>
     <tr>
