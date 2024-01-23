@@ -111,10 +111,10 @@
 <table>
     <tr>
         <td>
-            <img src="https://github-profile-trophy.vercel.app/?username=galdayan&row=3&column=4&no-bg=true"/>
+            <img src="https://github-profile-trophy.vercel.app/?username=omribenshoham&row=3&column=4&no-bg=true"/>
         </td>
         <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=galdayan"/>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=omribenshoham"/>
         </td> 
     </tr>
     <tr>
