@@ -8,6 +8,11 @@
 * 🏋️‍♂️ Fun Fact: When I'm not coding or scaling startups, you might find me lifting weights at the gym – I find it a great way to stay focused and energized.
 * 🌟 Personal Mission: My goal is to blend technology and creativity to create solutions that make a real-world impact.
 
+
+## Contact Me
+
+[<img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="LinkedIn" width="20"/>]([https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/omri-ben-shoham-689138125/)/)
+
 <!--
 **OmriBenShoham/OmriBenShoham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
